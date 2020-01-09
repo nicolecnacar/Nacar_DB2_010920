@@ -1,0 +1,1 @@
+SELECT * FROM "010920".professor WHERE dept_code = 'CIS';
